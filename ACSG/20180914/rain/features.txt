@@ -1,0 +1,47 @@
+Category - AUTOMATIC
+----------------------------------
+	version - 1.2
+
+
+Catergory - MANUAL
+----------------------------------
+	version - 1.0
+
+	1. Config file integrated
+	2. The config file name is configuration.csv
+	3. The config file can be modified to control the number of column to visualize customized data
+	4. The config file can be modified to control the order of column to visualize customized data
+
+
+
+Category - SMART
+----------------------------------
+	version - 1.1
+
+	1. Config file integrated
+	2. The config file name is configuration.csv
+	3. The config file can be modified to control the number of column to visualize customized data
+	4. The config file can be modified to control the order of column to visualize customized data
+	5. Category file integrated
+	6. The category file name is category.csv
+	7. The category file contains all the supported categories( 1st ROW) with their respective supported keywords( below with the column)
+	8. The category file holds the provision for updation with user defined keywords in the column for improving the accuracy
+	9. Command for initial training - "python <file-name> <input-csv-file-path> -T" (Note- On first run only)
+	10. Default command for executing - "python <file-name> <input-csv-file-path> -F" (Note- Default)
+
+
+
+Algorithm - (NLP-RAIN-DATA)
+----------------------------------
+	1. Pre Processing of data comprising of data cleaning with two stages:-
+		a. Stopwords Removal
+		b. Punctuation Removal
+	2. Classification of text using Neural Network (2-Layer NN)
+	3. Option for training on category modification/updation
+
+
+Future Updates/Current Work On Progress
+---------------------------------------
+	1. Integration of 3 new columns
+	2. Accuracy in Data
+	3. Volume of Data

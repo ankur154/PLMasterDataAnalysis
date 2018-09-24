@@ -1,0 +1,5 @@
+ProductColumnName=SPECIFICATION
+FiltersAppliedOn=DESCRIPTION,SPECIFICATION
+InputFolderH:/Z-drive/RAINS/Yog_Code/RAIN/InputFolder
+OutputFolder=H:/Z-drive/RAINS/Yog_Code/RAIN/OutputFolder
+XlsSheetName=SAMPLE PRODUCTS LIST

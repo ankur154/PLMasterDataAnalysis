@@ -1,0 +1,5 @@
+cd=SPECIFICATION
+FiltersAppliedOn=DESCRIPTION,SPECIFICATION
+InputFolder=C:/ACSG/InputFolder
+OutputFolder=C:/ACSG/OutputFolder
+XlsSheetName=SAMPLE PRODUCTS LIST
